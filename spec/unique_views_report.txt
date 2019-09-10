@@ -1,0 +1,4 @@
+/about 3 unique views
+/home 2 unique views
+/contact 1 unique view
+/index 1 unique view

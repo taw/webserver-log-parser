@@ -1,0 +1,4 @@
+/about 3 visits
+/home 3 visits
+/contact 2 visits
+/index 1 visit

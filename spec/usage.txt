@@ -1,0 +1,4 @@
+To get all visits:
+  log_parser log_file.log
+To get unique views:
+  log_parser --unique log_file.log
